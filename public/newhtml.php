@@ -12,6 +12,6 @@ and open the template in the editor.
   </head>
   <body>
     <div>serega molodets</div>
-    <a href="/index.php">INDEX page</a>
+    <a href="/index.php">goto INDEX page</a>
   </body>
 </html>
