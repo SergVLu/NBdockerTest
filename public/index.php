@@ -10,6 +10,7 @@
     <div>SERG write content </div>
     <br>
     <div>This is page index.php</div>
+    <div>This is change for VSCode</div>
     <a href="/newhtml.php">SEREGA</a>
     <br>
     <?php echo "something by echo" ?>
